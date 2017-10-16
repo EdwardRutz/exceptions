@@ -1,4 +1,4 @@
-# Exception Handling
+# [X] Exception Handling
 Back-End Exercise, Nashville Software School
 
 ## Objective
